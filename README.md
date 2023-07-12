@@ -2,4 +2,4 @@
 
 
 # Skills  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-3776AB?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=PySpark&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-CC2927?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-3776AB?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-CC2927?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
